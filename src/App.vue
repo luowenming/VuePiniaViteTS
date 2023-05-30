@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
-// import TabsView from './views/tabs/TabsView.vue'
 
 // import { fetchTest } from '@/api/test'
 
@@ -9,7 +8,6 @@ import { RouterView } from 'vue-router'
 
 <template>
   <RouterView />
-  <!-- <TabsView></TabsView> -->
 </template>
 
 <style>
